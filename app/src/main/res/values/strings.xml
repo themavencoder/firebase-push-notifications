@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">pushtest</string>
+    <string name="fcm_token">FCM Token: %s</string>
+</resources>

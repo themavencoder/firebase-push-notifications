@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "676083527386",
+    "firebase_url": "https://pushtest-e44d6.firebaseio.com",
+    "project_id": "pushtest-e44d6",
+    "storage_bucket": "pushtest-e44d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676083527386:android:b544b42b94282e9b",
+        "android_client_info": {
+          "package_name": "com.univelcity.pushtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676083527386-5o6l3vlauur2ia0gsvv4q50rd1o0f03e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.univelcity.pushtest",
+            "certificate_hash": "beda5ffd6ccad332afb0e19df2f8a5543aa905a2"
+          }
+        },
+        {
+          "client_id": "676083527386-osqm6ctpa81v7faim1hd61jd21tut4u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxtPfw5H9DdrcwIKzm89dkN5E8tjJzFYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676083527386-osqm6ctpa81v7faim1hd61jd21tut4u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
